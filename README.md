@@ -12,7 +12,7 @@ A compiler for **L**, a statically-typed language I designed and built from scra
 
 **Stack:** TypeScript, NASM, x86-64 assembly
 
-### Till
+### Till (Private repo)
 
 A full-featured corner shop POS (point of sale) desktop application. Handles products, stock, offers/discounts, VAT, cash up, refunds, role-based staff auth, and receipt printing.
 
