@@ -44,11 +44,11 @@ A functioning HTTP web server written entirely in PowerShell, built as an experi
 
 **Stack:** PowerShell
 
-### Minecraft Radial Menu Mod _(early stage)_
+### [Minecraft Radial Menu Mod](https://github.com/Bmorgan08/MinecraftRadialMenuMod)
 
-A Minecraft mod adding a radial menu UI for item selection.
+A radial menu UI for triggering keybinds in heavily modded packs, so you're not stuck cramming everything onto a full keyboard. Fabric support spans Minecraft 1.20.4 through 26.2 from a single source tree via Stonecutter multi-version tooling. A Forge port is planned.
 
-**Stack:** Java
+**Stack:** Java, Fabric
 
 ---
 
